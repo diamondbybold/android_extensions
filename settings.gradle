@@ -1,0 +1,3 @@
+include ':androidExtensions'
+include ':app'
+rootProject.name = "AndroidExtensions"
