@@ -21,6 +21,7 @@ fun TextInputLayout.isFieldValidEmail(errorMessage: String): Boolean {
     return true
 }
 
+
 /**
  * Checks if an EditText field is empty, if so shows the corresponding error message
  *
